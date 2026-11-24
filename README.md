@@ -12,7 +12,7 @@ How to run
 Firstly download or clone this repo and then move into the project folder as shown below;
 
 ```bash
-$-> git clone https://github.com/Kalebu/Digital-clock-in-Python
+$-> git clone https://github.com/zidnicse/Digital-clock-in-Python
 $-> cd Digital-clock-in-Python
 $ Digital-clock-in-Python -> python app.py
 ```
